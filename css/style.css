@@ -1,4 +1,5 @@
-h1 {
-    color: blue;
-    border: 5px solid rgb(38, 22, 173);
+.header {
+    padding: 50px 0 200px;
+    box-sizing: border-box;
+    background: url('../img/banner-bg.jpg');
 }
